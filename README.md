@@ -1,18 +1,50 @@
-# Hi, I'm Zion Eloheeka Irakoze Mukama
+# Hi, I'm Zion 👋
 
-# About Me
+Software Developer | AI & ML Enthusiast | Builder
 
-I'm a software developer with a passion for building and making impact.
+I build practical software across web, mobile, AI,
+and emerging technologies.
 
-# Technologies & Tools
+Currently:
+→ Building full-stack and mobile applications
+→ Learning Machine Learning and AI
+→ Exploring robotics, IoT, and embedded systems
 
-**Frontend:** React Js, Next Js, TypeScript, HTML, CSS  
-**Backend:** Node Js, Nest Js, Java  
-**Mobile dev:** React Native, Flutter  
-**3D Design:** Blender, Fusion 360, Sweet Home  
-**Tools:** Git, GitHub, VS Code, npm
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# Currently Learning
+💻 Tech Stack
 
-- Machine Learning
-- State management with Redux
+Frontend     Backend       Mobile
+React        Node.js       React Native
+Next.js      NestJS        Flutter
+TypeScript   Java
+
+AI & Data    Tools
+Python       Git
+Machine      GitHub
+Learning     VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+SmartMine Rwanda
+AI + IoT solution for mining safety
+
+SportsSync
+Sports management platform
+
+MediTrack
+Machine-learning health application
+
+D&S Journeys
+Travel Agency Platform
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 Let's Connect
+
+Portfolio: https://zioneloheeka.vercel.app/
+Email: m.eloheeka
+
+
